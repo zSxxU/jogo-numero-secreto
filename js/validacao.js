@@ -38,3 +38,12 @@ document.body.addEventListener('click', e => {
         window.location.reload()
     }
 })
+
+function gameOver(chute){
+    if(chute === "game over") {
+        document.body.innerHTML = `
+        <h2>O jogo acabou!</h2>
+        <button id="jogar-novamente" class="btn-jogar">Jogar Novamente</button>
+        `
+    }
+}

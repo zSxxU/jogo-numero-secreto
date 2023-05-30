@@ -12,7 +12,8 @@ recognition.addEventListener('result', onSpeak)
 function onSpeak(e) {
     chute = e.results[0][0].transcript
     exibeChute(chute)
-    verificaChuteValido (chute)
+    verificaChuteValido(chute)
+    gameOver(chute)
 }
 
 function exibeChute(chute) {
