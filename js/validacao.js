@@ -42,7 +42,8 @@ document.body.addEventListener('click', e => {
 function gameOver(chute){
     if(chute === "game over") {
         document.body.innerHTML = `
-        <h2>O jogo acabou!</h2>
+        <h2>Comando game over executado!<h2>
+        <h3>O jogo acabou!</h3>
         <button id="jogar-novamente" class="btn-jogar">Jogar Novamente</button>
         `
     }
