@@ -1,7 +1,7 @@
-<div align="center"><img src="https://www.epicdigitais.com.br/wp-content/uploads/2019/09/alura-e1584016996575.png"></div>
 <h1 align="center">Jogo Número Secreto</h1>
-<p align="center"><strong>Descrição:</strong>
-<br>Projeto disponibilizado pelo curso "JavaScript: validações e reconhecimento de voz" da Alura Cursos Online</p><br/>
+<h2 align="center">Descrição:</h2>
+  <p align="center">Projeto disponibilizado pelo curso "<a href="https://cursos.alura.com.br/course/javascript-validacoes-reconhecimento-voz">JavaScript: validações e reconhecimento de voz</a>" da Alura Cursos Online</p>
+  
 <div align="center"><img src="https://cdn.discordapp.com/attachments/702716336169680908/1113179958534213783/Untitled_design.gif"></img></div>
 
 <h2 align="center">Sobre</h2>
@@ -25,4 +25,5 @@ O desafio proposto pelo curso tem como objetivo, ensinar o aluno à como aplicar
  
 <h2 align="center">Copyright</h2>
 <p align="center">Projeto fictício sem fins comerciais.<p>
-  
+
+<h2><div align="center"><img src="https://www.epicdigitais.com.br/wp-content/uploads/2019/09/alura-e1584016996575.png"></div></h2>
