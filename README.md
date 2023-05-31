@@ -1,4 +1,5 @@
 <h1 align="center">Jogo Número Secreto</h1>
+
 <h2 align="center">Descrição:</h2>
 Projeto disponibilizado pelo curso "<a href="https://cursos.alura.com.br/course/javascript-validacoes-reconhecimento-voz">JavaScript: validações e reconhecimento de voz</a>" da Alura Cursos Online
 
