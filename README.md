@@ -12,7 +12,7 @@ O desafio proposto pelo curso tem como objetivo, ensinar o aluno à como aplicar
 </p>
 
 <h2 align="center">Guia de Utilização</h2>
-  <p>1. Abra o <a href="https://jogo-numero-secreto-liard.vercel.app">link</a> em um navegador compatível com o Web Speech API; <strong>Google Chrome</strong> ou <strong>Micrsoft Edge</strong>.</p>
+  <p>1. Abra o <a href="https://jogo-numero-secreto-liard.vercel.app">link</a> em um navegador compatível com o Web Speech API; <strong>Google Chrome</strong> ou <strong>Microsoft Edge</strong>.</p>
   <p>2. Autorize o uso do seu microfone no pop-up.</p>
   <img src="https://cdn.discordapp.com/attachments/702716336169680908/1113185517215961169/image.png">
   <p>3. Fale qualquer número até acertar o número aleatório.</p>
